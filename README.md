@@ -31,7 +31,7 @@ frameworks/               # Installed agentic frameworks (git subtree)
 
 ## @-Mention Agents
 
-| Agent | Purpose | Invoke with |
+| Agent | Purpose | rewoke with |
 |-------|---------|-------------|
 | [`agentic-workflows`](agents/agentic-workflows.md) | Agentic workflow orchestration | `@agentic-workflows` in any org repo |
 | [`compliance-auditor`](agents/compliance-auditor.md) | Audit repo against org standards | `@compliance-auditor` in any org repo |
